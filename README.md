@@ -63,8 +63,4 @@ To run the project locally, follow these steps:
 └── tsconfig.json       # TypeScript configuration
 ```
 
-## 🎥 Video
-
-https://github.com/user-attachments/assets/akaza.mp4
-
 
